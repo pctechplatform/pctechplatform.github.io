@@ -77,13 +77,13 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "prettier": "prettier --write .",
+    "prettier": "prettier --write {src,*.js}",
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "jest",
-    "lint": "eslint . && stylelint src",
-    "lint:fix": "eslint . --fix"
+    "lint": "eslint {src,*.js} --ext .js,.ts,.tsx && stylelint 'src/**/*.{js,ts,tsx}'",
+    "lint:fix": "eslint {src,*.js} --ext .js,.ts,.tsx --fix"
   },
   "husky": {
     "hooks": {
