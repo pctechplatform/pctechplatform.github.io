@@ -9,7 +9,10 @@ export default function NotFoundPage(): React.ReactElement {
     <Container>
       <Metatags title="Sobre mim" />
       <PageTitle>Sobre mim</PageTitle>
-      <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+      <p>
+        ### Hey, I’m Patrick César - I’m currently working on IT Support. - I’m currently learning JavaScript. - How to
+        reach me: @ptrickcesar - Pronouns: His/Him. - Fun fact: I’m 28. but I look like 18.
+      </p>
     </Container>
   );
 }
