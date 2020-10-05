@@ -24,6 +24,10 @@ exports[`<Header /> should not render the last name 1`] = `
   outline: none;
 }
 
+.c3 {
+  font-size: 25px;
+}
+
 @media (min-width:760px) {
   .c2 {
     font-size: 24px;
@@ -42,6 +46,11 @@ exports[`<Header /> should not render the last name 1`] = `
           class="c2"
         >
           John
+          <span
+            class="c3"
+          >
+            ⚡
+          </span>
         </span>
       </a>
     </header>
@@ -61,7 +70,7 @@ exports[`<Header /> should render properly 1`] = `
   text-transform: lowercase;
 }
 
-.c3 {
+.c4 {
   color: #363636;
 }
 
@@ -76,9 +85,8 @@ exports[`<Header /> should render properly 1`] = `
   outline: none;
 }
 
-.c4 {
-  font-size: 15px;
-  height: 30px;
+.c3 {
+  font-size: 25px;
 }
 
 @media (min-width:760px) {
@@ -102,14 +110,14 @@ exports[`<Header /> should render properly 1`] = `
           John
           <span
             class="c3"
+          >
+            ⚡
+          </span>
+          <span
+            class="c4"
             data-testid="header-lastname"
           >
             Doe
-            <span
-              class="c4"
-            >
-              ⚡
-            </span>
           </span>
         </span>
       </a>
