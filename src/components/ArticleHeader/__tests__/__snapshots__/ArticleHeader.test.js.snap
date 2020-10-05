@@ -143,14 +143,14 @@ exports[`<ArticleHeader /> should render properly 1`] = `
   text-decoration: none;
   box-shadow: none;
   font-size: 14px;
-  color: #6495ED;
+  color: #6495ed;
   font-weight: 700;
   text-transform: lowercase;
 }
 
 .c6:hover,
 .c6:focus {
-  border-bottom: 1px solid #6495ED;
+  border-bottom: 1px solid #6495ed;
   outline: none;
 }
 

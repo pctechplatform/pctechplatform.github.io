@@ -17,7 +17,7 @@ exports[`<ArticlePage> should render properly 1`] = `
 }
 
 .c2 a {
-  color: #6495ED;
+  color: #6495ed;
   -webkit-text-decoration: none;
   text-decoration: none;
   border-bottom: 1px solid transparent;
@@ -25,12 +25,12 @@ exports[`<ArticlePage> should render properly 1`] = `
 
 .c2 a:hover,
 .c2 a:focus {
-  border-bottom: 1px solid #6495ED;
+  border-bottom: 1px solid #6495ed;
   outline: none;
 }
 
 .c2 blockquote {
-  border-left: 5px solid #6495ED;
+  border-left: 5px solid #6495ed;
   padding-left: 20px;
 }
 
