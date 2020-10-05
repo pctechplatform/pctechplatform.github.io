@@ -32,13 +32,13 @@ const TagLink = styled(Link)`
   text-decoration: none;
   box-shadow: none;
   font-size: 14px;
-  color: #d73738;
+  color: #6495ed;
   font-weight: 700;
   text-transform: lowercase;
 
   :hover,
   :focus {
-    border-bottom: 1px solid #d73738;
+    border-bottom: 1px solid #6495ed;
     outline: none;
   }
 `;

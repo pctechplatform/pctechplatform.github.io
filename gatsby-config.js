@@ -1,21 +1,20 @@
 const siteMetadata = {
-  title: 'Blog do Diego Costa',
-  author: 'Diego Costa',
-  description: 'Diego Costa, desenvolvedor web e mobile - Salvador, BA',
-  siteUrl: 'https://blog.diegocosta.me',
+  title: 'Blog Tech Platform',
+  author: 'Tech Platform',
+  description: 'Patrick César, estudante de desenvolvimento de web',
+  siteUrl: 'https://techplatform.digital',
   contacts: [
-    { link: 'https://diegocosta.me', label: 'sobre mim' },
-    { link: 'https://github.com/diegocosta', label: 'github' },
-    { link: 'https://linkedin.com/in/diegoscosta', label: 'linkedin' },
-    { link: 'https://twitter.com/diegocoxta', label: 'twitter' },
-    { link: 'mailto:diego@diegocosta.com.br', label: 'e-mail' },
+    { link: 'https://techplatform.digital', label: 'sobre mim' },
+    { link: 'https://github.com/ptrickcesar', label: 'github' },
+    { link: 'https://linkedin.com/in/ptrickcsilva', label: 'linkedin' },
+    { link: 'mailto:patrick@techplatform.digital', label: 'e-mail' },
   ],
 };
 
 module.exports = {
   siteMetadata: {
     language: 'en',
-    repository: 'https://github.com/diegocosta/blog.diegocosta.me',
+    repository: 'https://github.com/ptrickcesar/blog.diegocosta.me',
     ...siteMetadata,
   },
   plugins: [
@@ -86,8 +85,8 @@ module.exports = {
         name: siteMetadata.title,
         short_name: siteMetadata.author,
         start_url: siteMetadata.siteUrl,
-        background_color: '#0e0f11',
-        theme_color: '#d73738',
+        background_color: '#4F4F4F',
+        theme_color: '#F0F8FF',
         display: 'minimal-ui',
         icon: 'static/icon.png',
       },

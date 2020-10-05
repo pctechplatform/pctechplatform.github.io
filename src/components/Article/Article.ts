@@ -9,19 +9,19 @@ export const Content = styled.section`
   line-height: 1.5;
 
   a {
-    color: #d73738;
+    color: #6495ed;
     text-decoration: none;
     border-bottom: 1px solid transparent;
 
     :hover,
     :focus {
-      border-bottom: 1px solid #d73738;
+      border-bottom: 1px solid #6495ed;
       outline: none;
     }
   }
 
   blockquote {
-    border-left: 5px solid #d73738;
+    border-left: 5px solid #6495ed;
     padding-left: 20px;
   }
 

@@ -18,7 +18,7 @@ const Name = styled.span<{ small: boolean }>`
 `;
 
 const LastName = styled.span`
-  color: #d73738;
+  color: #363636;
 `;
 
 const StyledLink = styled(Link)`
@@ -26,9 +26,14 @@ const StyledLink = styled(Link)`
   box-shadow: none;
 
   :focus {
-    border-bottom: 1px solid #d73738;
+    border-bottom: 1px solid #363636;
     outline: none;
   }
+`;
+
+const Raio = styled.span`
+  font-size: 15px;
+  height: 30px;
 `;
 
 interface HeaderProps {
@@ -44,7 +49,12 @@ export default function Header(props: HeaderProps): React.ReactElement {
       <StyledLink to="/">
         <Name small={props.small}>
           {name}
-          {lastname && <LastName data-testid="header-lastname">{lastname[0]}.</LastName>}
+          {lastname && (
+            <LastName data-testid="header-lastname">
+              {lastname}
+              <Raio>⚡</Raio>
+            </LastName>
+          )}
         </Name>
       </StyledLink>
     </Container>

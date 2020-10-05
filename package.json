@@ -1,9 +1,9 @@
 {
-  "name": "blog-diego-costa",
+  "name": "blog-tech-platform",
   "private": true,
-  "description": "Diego Costa, desenvolvedor web e mobile - Salvador, BA",
+  "description": "Patrick Cesar, estudante de desenvolvimento web",
   "version": "0.2.0",
-  "author": "Diego Costa <diego@diegocosta.com.br>",
+  "author": "Patrick Cesar <ptrickcsar@gmail.com>",
   "dependencies": {
     "downshift": "^5.4.6",
     "fuse.js": "^6.4.0",
