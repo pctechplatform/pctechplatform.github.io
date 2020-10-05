@@ -32,8 +32,7 @@ const StyledLink = styled(Link)`
 `;
 
 const Raio = styled.span`
-  font-size: 15px;
-  height: 30px;
+  font-size: 25px;
 `;
 
 interface HeaderProps {
@@ -49,12 +48,8 @@ export default function Header(props: HeaderProps): React.ReactElement {
       <StyledLink to="/">
         <Name small={props.small}>
           {name}
-          {lastname && (
-            <LastName data-testid="header-lastname">
-              {lastname}
-              <Raio>⚡</Raio>
-            </LastName>
-          )}
+          <Raio>⚡</Raio>
+          {lastname && <LastName data-testid="header-lastname">{lastname}</LastName>}
         </Name>
       </StyledLink>
     </Container>

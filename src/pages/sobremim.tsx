@@ -10,7 +10,7 @@ export default function NotFoundPage(): React.ReactElement {
       <Metatags title="Sobre mim" />
       <PageTitle>Sobre mim</PageTitle>
       <p>Hey, meu nome é Patrick César e, além de Analista Computacional, sou estudante de desenvolvimento web.</p>
-      ![Sou Sonserino](01.jpg)
+      <img src="/static/01.jpg" />
     </Container>
   );
 }

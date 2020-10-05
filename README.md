@@ -1,4 +1,4 @@
-# 👨🏿‍💻 techplhatform.digital
+# 👨🏿‍💻 The Tech platform
 
 My personal blog powered by gatsby, typescript and styled-components.
 
