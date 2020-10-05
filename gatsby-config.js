@@ -4,7 +4,7 @@ const siteMetadata = {
   description: 'Patrick César, estudante de desenvolvimento de web',
   siteUrl: 'https://techplatform.digital',
   contacts: [
-    { link: 'https://techplatform.digital', label: 'sobre mim' },
+    { link: 'https://techplatform.digital/sobremim', label: 'sobre mim' },
     { link: 'https://github.com/ptrickcesar', label: 'github' },
     { link: 'https://linkedin.com/in/ptrickcsilva', label: 'linkedin' },
     { link: 'mailto:patrick@techplatform.digital', label: 'e-mail' },
@@ -14,7 +14,7 @@ const siteMetadata = {
 module.exports = {
   siteMetadata: {
     language: 'en',
-    repository: 'https://github.com/ptrickcesar/blog.diegocosta.me',
+    repository: 'https://github.com/ptrickcesar/techplatform',
     ...siteMetadata,
   },
   plugins: [
