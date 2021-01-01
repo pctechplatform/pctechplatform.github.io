@@ -4,6 +4,12 @@ import Container from '~/components/Container';
 import Metatags from '~/components/Metatags';
 import PageTitle from '~/components/PageTitle';
 
+const Imagem = styled.img`
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+`;
+
 export default function NotFoundPage(): React.ReactElement {
   return (
     <Container>
