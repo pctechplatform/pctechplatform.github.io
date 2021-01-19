@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog Tech Platform]]></title><description><![CDATA[Patrick César, estudante de desenvolvimento de web]]></description><link>https://techplatform.digital</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 19 Jan 2021 11:41:47 GMT</lastBuildDate><item><title><![CDATA[E então, o que é isso aqui?]]></title><description><![CDATA[Falaaaaa galera! Tudo bem? Eu sou o Patrick César, você também pode me chamar 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog Tech Platform]]></title><description><![CDATA[Patrick César, estudante de desenvolvimento de web]]></description><link>https://techplatform.digital</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 19 Jan 2021 11:44:48 GMT</lastBuildDate><item><title><![CDATA[E então, o que é isso aqui?]]></title><description><![CDATA[Falaaaaa galera! Tudo bem? Eu sou o Patrick César, você também pode me chamar 
 de Prongs ( espero que peguem a referência), e hoje estou…]]></description><link>https://techplatform.digital/firstpost/</link><guid isPermaLink="false">https://techplatform.digital/firstpost/</guid><pubDate>Tue, 19 Jan 2021 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Falaaaaa galera! Tudo bem? Eu sou o Patrick César, você também pode me chamar
 de Prongs ( espero que peguem a referência), e hoje estou aqui ( FINALMENTE)
 para escrever o primeiro post do blog ( emoji de felicidade :) ).
@@ -8,5 +8,36 @@ Já tem um tempinho que venho tentando colocar esse blog no ar, assim como escre
 Vou tentar atualizar o blog pelo menos uma vez na semana. Você também pode acompanhar as novidades no nosso &lt;a href=&quot;http://instagram.com/techplatformbr&quot;&gt;instagram&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Bom, fellas, por hoje é isso!
 Até a próxima.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;first.jpg&quot; alt=&quot;escrevendo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/168653bec637f76958493f48c3d829d0/af756/first.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAZCAIAAAC+dZmEAAAACXBIWXMAAC4jAAAuIwF4pT92AAAFf0lEQVQ4yx2Sa3PbZBbH9YphgGG5DhTo7JAFSkOWpC2FmLRJSkvSNk1Sx3Z8tyXrYke2fJFsy7Jky5ItWTdLli3ZTtxcyhQ6wyvgTRmYnd0vsd9iP8Rqd+a8PL/n/P7nPMBXUHUh3XoTNj/xpxeixb8gx+8lu+8l2n8PIMs7wcux1moMv3r77idrW5eD9FvIi3ew397O/vIG+sfb6Aug2+HyRL7J1GiaqpKFYhGvlAoMTZJlvFYpdLh6qXCEYqjUrgvtuqrwhiYq/Y4gcHKPA1S1V6aomWMMzb7WF0ytO5ufmJZhmqpXpyfjix8uFFU+HuuTse7a2tjWZ64+n1kzRwdcZ1BvMlN34IwNVeaf/3j6+x8vLEt3nKE7m16cTf75rz/Pn565I+1kYp5Mzfnx6PSJc3E2nU2HwJOTMcM2JyNtNNQMrTuf2T8/P7cGsqr0dL0/MqXnP53ranfQ5ye2cuxoU8cba7tjYzqxgJPjcbPFekr2QB4OZKXLySIrCU2lL2qabKmdJlMv5HOW0nZH6sRWJ2NPwfBinkwtYDazKZqeupb3mG0phioqMi/yjKb0VLU/1ASOYyiyaBuipXedoeJh8+lgPjPP52Pg/NRptNjT+Xg2sQa6pCuiZUj9HmcOlKFtumZP4Fmeo0eDnmt7pD4d6/Op6ZmeeJmfP5uz7fbFqTt1Bv9feEeXebXHeSsYjq3jsca3GJ6tu5bkDvuuJf8v+VgbDSTHVoGz+Yimq8eO7lh9SxP6AqMIjW6rpms9Y6A6hiB0WJoiLJm1lZZXwz430jq22rG1DuBdrESWjD5vKrxHthqVbrveYsiuwPWkrsiSLNsoFfOKyHS4mtpjvU5NbveltiTxANtiQBTN5jDsKJvMZOKpVJnA8jmIpMga14JhsFTAsnCyXkRL3ucr5iSertSrNFWQ2hTQLmUYItPAwRKarOJgFYeYo7hAJGQal7lqDQ6K+ahahc46OasGamR6LhIaS4gkbDQwoADHJTJj1mGjjugUpNdgIR9voYEhi5t8VS/H9XLSYxwa+lHMPRXwMz43Y9HjVm4u5IHg3sNuIW5UEl0iKeDxXj7KYBEJj2gMzpL5ZnpXwcNuJWpRyScMOKhCcjHp1sFnPXwu5oEyEu8SiQYSopFQBQxSKb9CxNrIgUikTKHWSO1ouccS5ndqyafNVA/Zl4mYSkGtQsozBTAwymfDbSRAZ4J1LEzE9nj0oHi4bZQSSDIC+rdK0Uc9LOBW4xMWZdBwG09YlUQzFx/WYaCWi1OZEIcGJ020XwELqaBKRFnYr6D7jxc/2lu/DgcflON7HBKwqQSLBGvQQTsX7pXSY54AWiRaOoKy4R0aPeSPImU4ggTuZ4I7P9FJ238r83BbJ8IdLNDCQlzGP6qmzEpCKCQEPNotg0AjG2XzSSLpr4OPa+l97PAB9PiuXUz856z3b60+xMh8LIRHHxVTBwUw1DxKtItpiYT0KihV0gCJRtgynEMSJSSKJw/y6UA6svsrC/2jAdmZ8N71tf2tLQoNVqFANRurZOPVXKKBJzPJcDR2CBThMJWNE5lwATwsZMJVOEBAB8+wnbWPPwQAwPf+K2Lk3uHe/e17m2ub332zfmfZt760uvH5zfWvN7aAGnooFuOVTIhI7FLpvUZmnwV3+EerH7zy+qXXXv0B2vwZ+f6ltz566dLf3lz44tLi9YUV35Jv49q3mxv37gOlozQY9cOR3cTBg+27G/G9e4HtjRuLn31/5a/F9S+k3Zuvv/rGy+9cXlhcuea7tXrbQx6GAv5ILBI6DAIbWzs3bn238s3tK8tfL17zLd/wLV+/eWPpy6VPr7787uUrny1+8PHVD68sL361tuLbWFndXPF55pvL395ZWr3zX6lSj+KET4egAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;escrevendo&quot;
+        title=&quot;escrevendo&quot;
+        src=&quot;/static/168653bec637f76958493f48c3d829d0/fcda8/first.png&quot;
+        srcset=&quot;/static/168653bec637f76958493f48c3d829d0/12f09/first.png 148w,
+/static/168653bec637f76958493f48c3d829d0/e4a3f/first.png 295w,
+/static/168653bec637f76958493f48c3d829d0/fcda8/first.png 590w,
+/static/168653bec637f76958493f48c3d829d0/efc66/first.png 885w,
+/static/168653bec637f76958493f48c3d829d0/c83ae/first.png 1180w,
+/static/168653bec637f76958493f48c3d829d0/af756/first.png 1639w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;center&gt;&lt;em&gt;Escrevendo pro blog&lt;/em&gt;&lt;/center&gt;</content:encoded></item></channel></rss>
