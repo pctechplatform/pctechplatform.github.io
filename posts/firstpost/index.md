@@ -20,5 +20,5 @@ Bom, fellas, por hoje é isso!
 Até a próxima.
 
 
-![escrevendo](first.jpg)
+![escrevendo](first.png)
 <center><em>Escrevendo pro blog</em></center>
