@@ -20,7 +20,7 @@ exports[`<Header /> should not render the last name 1`] = `
 }
 
 .c1:focus {
-  border-bottom: 1px solid #363636;
+  border-bottom: 1px solid #000080;
   outline: none;
 }
 
@@ -49,7 +49,7 @@ exports[`<Header /> should not render the last name 1`] = `
           <span
             class="c3"
           >
-            ⚡
+            .
           </span>
         </span>
       </a>
@@ -71,7 +71,7 @@ exports[`<Header /> should render properly 1`] = `
 }
 
 .c4 {
-  color: #363636;
+  color: #000080;
 }
 
 .c1 {
@@ -87,6 +87,7 @@ exports[`<Header /> should render properly 1`] = `
 
 .c3 {
   font-size: 25px;
+  color: #363636;
 }
 
 @media (min-width:760px) {
@@ -111,7 +112,7 @@ exports[`<Header /> should render properly 1`] = `
           <span
             class="c3"
           >
-            ⚡
+            .
           </span>
           <span
             class="c4"
