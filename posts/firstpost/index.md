@@ -14,7 +14,7 @@ Já tem um tempinho que venho tentando colocar esse blog no ar, assim como escre
 Como vocês já sabem, esse blog tem como objetivo trazer dicas da área de TI para vocês que não são expertcs na área (e para vocês também que são, vai que né?). Então, teremos dicas sobre smartphones, computadores, apps, séries, filmes e jogos. 
 
 Como estou estudando desenvolvimento, toda evolução de meu conhecimento será depositada aqui, ou seja, vocês terão materiais de primeira mão :3.
-Vou tentar atualizar o blog pelo menos uma vez na semana. Você também pode acompanhar as novidades no nosso [instagram](http://instagram.com/techplatformbr)
+Vou tentar atualizar o blog pelo menos uma vez na semana. Você também pode acompanhar as novidades no nosso [instagram](http://instagram.com/techplatformdigital)
 
 Bom, fellas, por hoje é isso! 
 Até a próxima.
