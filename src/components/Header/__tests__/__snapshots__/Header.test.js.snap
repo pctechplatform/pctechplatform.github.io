@@ -71,7 +71,7 @@ exports[`<Header /> should render properly 1`] = `
 }
 
 .c4 {
-  color: #000080;
+  color: #363636;
 }
 
 .c1 {
@@ -81,13 +81,12 @@ exports[`<Header /> should render properly 1`] = `
 }
 
 .c1:focus {
-  border-bottom: 1px solid #363636;
+  border-bottom: 1px solid #000080;
   outline: none;
 }
 
 .c3 {
   font-size: 25px;
-  color: #363636;
 }
 
 @media (min-width:760px) {
