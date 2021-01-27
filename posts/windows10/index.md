@@ -28,26 +28,26 @@ Primeiramente, você vai precisar de um pendrive com no mínimo 8GB, para baixar
 
   Baixe a ferramenta e instale.
 
-![imagem do site](imge00.jpg)
+![imagem do site](imge00.png)
 <center><em>Instalando a ferramenra</em></center>
 
   Aceite os termos e avance na criação da mída de instalação
 
 Depois de instalar a ferramenta do Windows 10, continue os passos para download do Windows.
 
-![imagem do site](imge01.jpg)
+![imagem do site](imge01.png)
 <center><em>Download do Windows</em></center>
 
   Confirme o software selecionado clicando em Confirmar.
 
   Selecione a versão do seu Windows. Dica: se você tiver mais de 4GB de RAM em seu computador, selecione a opção de 64-bit.
 
-![versão do windows](imge02.jpg)
+![versão do windows](imge02.png)
 <center><em>Versão do Windows</em></center>
 
   Depois de selecionar a versão, você irá baixar e instalar na ferramenta como unidade flash.
 
-![versão do windows](imge03.jpg)
+![versão do windows](imge03.png)
 <center><em>Selecionando o Windows na Ferramenta</em></center>
 
 ## Depois da instalação no pendrive
