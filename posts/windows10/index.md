@@ -14,7 +14,7 @@ Como formatar um computador? Como instalar o Windows 10 ?
 
 Se você já tem o Windows 10 instalado no seu computador, esse processo é mais fácil e simples. Hoje, irei explicar como você pode baixar o Windows e fazer toda a instalação. 
 
-Primeiramente, você vai precisar de um pendrive com no mínimo 8GB, para baixar e instalar o Windows 10. Você também irá formatar o pendrive clicando com o botão direito do mouse e selecionando a opção "formatar" e escolhendo a opção "FAT32". PRONTO. Seu pendrive está pronto para a instalação. [instagram](http://instagram.com/techplatformdigital)
+Primeiramente, você vai precisar de um pendrive com no mínimo 8GB, para baixar e instalar o Windows 10. Você também irá formatar o pendrive clicando com o botão direito do mouse e selecionando a opção "formatar" e escolhendo a opção "FAT32". PRONTO. Seu pendrive está pronto para a instalação.
 
 ## Instalando o Windows 10 
 
@@ -23,31 +23,31 @@ Primeiramente, você vai precisar de um pendrive com no mínimo 8GB, para baixar
     2. Acesse o [site da Microsoft](http://microsoft.com/pt-br/software-download/windows10ISO)
 
     
-![imagem do site](img.png)
+![imagem do site](imge.jpg)
 <center><em>Ferramenta Windows 10</em></center>
 
     3. Baixe a ferramenta e instale.
 
-![imagem do site](img.png)
+![imagem do site](imge00.jpg)
 <center><em>Instalando a ferramenra</em></center>
 
     4. Aceite os termos e avance na criação da mída de instalação
 
 Depois de instalar a ferramenta do Windows 10, continue os passos para download do Windows.
 
-![imagem do site](img01.png)
+![imagem do site](imge01.jpg)
 <center><em>Download do Windows</em></center>
 
     3. Confirme o software selecionado clicando em Confirmar.
 
     4. Selecione a versão do seu Windows. Dica: se você tiver mais de 4GB de RAM em seu computador, selecione a opção de 64-bit.
 
-![versão do windows](img02.png)
+![versão do windows](imge02.jpg)
 <center><em>Versão do Windows</em></center>
 
     5. Depois de selecionar a versão, você irá baixar e instalar na ferramenta como unidade flash.
 
-![versão do windows](img03.png)
+![versão do windows](imge03.jpg)
 <center><em>Selecionando o Windows na Ferramenta</em></center>
 
 ## Depois da instalação no pendrive
