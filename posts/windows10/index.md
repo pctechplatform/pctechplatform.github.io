@@ -18,34 +18,34 @@ Primeiramente, você vai precisar de um pendrive com no mínimo 8GB, para baixar
 
 ## Instalando o Windows 10 
 
-    1. Conecte o pendrive no computador.
+  Conecte o pendrive no computador.
 
-    2. Acesse o [site da Microsoft](http://microsoft.com/pt-br/software-download/windows10ISO)
+  Acesse o [site da Microsoft](http://microsoft.com/pt-br/software-download/windows10ISO)
 
-    
+
 ![imagem do site](imge.jpg)
 <center><em>Ferramenta Windows 10</em></center>
 
-    3. Baixe a ferramenta e instale.
+  Baixe a ferramenta e instale.
 
 ![imagem do site](imge00.jpg)
 <center><em>Instalando a ferramenra</em></center>
 
-    4. Aceite os termos e avance na criação da mída de instalação
+  Aceite os termos e avance na criação da mída de instalação
 
 Depois de instalar a ferramenta do Windows 10, continue os passos para download do Windows.
 
 ![imagem do site](imge01.jpg)
 <center><em>Download do Windows</em></center>
 
-    3. Confirme o software selecionado clicando em Confirmar.
+  Confirme o software selecionado clicando em Confirmar.
 
-    4. Selecione a versão do seu Windows. Dica: se você tiver mais de 4GB de RAM em seu computador, selecione a opção de 64-bit.
+  Selecione a versão do seu Windows. Dica: se você tiver mais de 4GB de RAM em seu computador, selecione a opção de 64-bit.
 
 ![versão do windows](imge02.jpg)
 <center><em>Versão do Windows</em></center>
 
-    5. Depois de selecionar a versão, você irá baixar e instalar na ferramenta como unidade flash.
+  Depois de selecionar a versão, você irá baixar e instalar na ferramenta como unidade flash.
 
 ![versão do windows](imge03.jpg)
 <center><em>Selecionando o Windows na Ferramenta</em></center>
