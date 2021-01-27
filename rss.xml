@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog Tech Platform]]></title><description><![CDATA[Patrick César, estudante de desenvolvimento de web]]></description><link>https://techplatform.digital</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 27 Jan 2021 22:28:01 GMT</lastBuildDate><item><title><![CDATA[Instalando o Windows 10]]></title><description><![CDATA[Hey, fellas! Tudo bem com vocês? O post de hoje é para falar de um assunto que, para muitos, ainda é um mistério: Como formatar um…]]></description><link>https://techplatform.digital/windows10/</link><guid isPermaLink="false">https://techplatform.digital/windows10/</guid><pubDate>Wed, 27 Jan 2021 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Hey, fellas! Tudo bem com vocês?&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog Tech Platform]]></title><description><![CDATA[Patrick César, estudante de desenvolvimento de web]]></description><link>https://techplatform.digital</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 27 Jan 2021 22:33:36 GMT</lastBuildDate><item><title><![CDATA[Instalando o Windows 10]]></title><description><![CDATA[Hey, fellas! Tudo bem com vocês? O post de hoje é para falar de um assunto que, para muitos, ainda é um mistério: Como formatar um…]]></description><link>https://techplatform.digital/windows10/</link><guid isPermaLink="false">https://techplatform.digital/windows10/</guid><pubDate>Wed, 27 Jan 2021 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Hey, fellas! Tudo bem com vocês?&lt;/p&gt;
 &lt;p&gt;O post de hoje é para falar de um assunto que, para muitos, ainda é um mistério:&lt;/p&gt;
 &lt;p&gt;Como formatar um computador? Como instalar o Windows 10 ?&lt;/p&gt;
 &lt;p&gt;Se você já tem o Windows 10 instalado no seu computador, esse processo é mais fácil e simples. Hoje, irei explicar como você pode baixar o Windows e fazer toda a instalação. &lt;/p&gt;
@@ -6,7 +6,36 @@
 &lt;h2&gt;Instalando o Windows 10&lt;/h2&gt;
 &lt;p&gt;  Conecte o pendrive no computador.&lt;/p&gt;
 &lt;p&gt;  Acesse o &lt;a href=&quot;http://microsoft.com/pt-br/software-download/windows10ISO&quot;&gt;site da Microsoft&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;imge.jpg&quot; alt=&quot;imagem do site&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0e9beb94df13e8d1385116b5d7f59e7e/227ba/imge.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 31.756756756756754%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAIAAABM9SnKAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA3ElEQVQY06WNuU7DQBCG9+EjaiJIgURDgYQSunAIIVEg8gopSELsNYWFvTsz6/WxR2LGQJEuBZ9G/9wzou4C1Z6sYzVs1ts22CZA5VoXqXZkfdWEodiGuoum4WGPletcFMYY0ACAoBGR9B9QlkorRqsh0GVRDF2ltQKuFF9l1zqR5/k2SbPsM0lkKiUHGpB3EPD3Hjsi4gcIQEjEN1hgaIj+H4irl+1otpw8rsd3q7P71fnD+uR2eTp/93HX93vmRw44yMV0IXnn5k1ev6as00V28bS5fP6Iu/3Rz9+dIk9LtoZQfQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;imagem do site&quot;
+        title=&quot;imagem do site&quot;
+        src=&quot;/static/0e9beb94df13e8d1385116b5d7f59e7e/fcda8/imge.png&quot;
+        srcset=&quot;/static/0e9beb94df13e8d1385116b5d7f59e7e/12f09/imge.png 148w,
+/static/0e9beb94df13e8d1385116b5d7f59e7e/e4a3f/imge.png 295w,
+/static/0e9beb94df13e8d1385116b5d7f59e7e/fcda8/imge.png 590w,
+/static/0e9beb94df13e8d1385116b5d7f59e7e/227ba/imge.png 769w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;center&gt;&lt;em&gt;Ferramenta Windows 10&lt;/em&gt;&lt;/center&gt;
 &lt;p&gt;  Baixe a ferramenta e instale.&lt;/p&gt;
 &lt;p&gt;&lt;span
