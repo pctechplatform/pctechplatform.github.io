@@ -23,7 +23,7 @@ Primeiramente, você vai precisar de um pendrive com no mínimo 8GB, para baixar
   Acesse o [site da Microsoft](http://microsoft.com/pt-br/software-download/windows10ISO)
 
 
-![imagem do site](imge.jpg)
+![imagem do site](imge.png)
 <center><em>Ferramenta Windows 10</em></center>
 
   Baixe a ferramenta e instale.
