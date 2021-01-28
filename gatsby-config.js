@@ -21,6 +21,12 @@ module.exports = {
     'gatsby-plugin-graphql-codegen',
     'gatsby-plugin-styled-components',
     {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: '260322926',
+      },
+    },
+    {
       resolve: 'gatsby-plugin-google-fonts',
       options: {
         fonts: ['raleway:400,700'],
