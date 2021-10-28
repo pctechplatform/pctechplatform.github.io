@@ -24,4 +24,4 @@ My personal blog powered by gatsby, typescript and styled-components.
 
 ## :coffee: Get in touch
 
-Say hello on [instagram](https://instagram/ptrickcesar) or [email](mailto:patrick@techplatform.digital)
+Say hello on [instagram](https://instagram.com/ptrickcesar) or [email](mailto:ptrickcsar@gmail.com)
